@@ -74,7 +74,7 @@ body{
 
 /*=====LAnding====*/
 .home-inner{
-  background-image:url(img/IMG_20190909_180129.jpg);
+  background-image:url(img/IMG_20190909_180129\ \(1\).jpg);
 }
 .caption{
   width:100%;
@@ -134,7 +134,7 @@ padding-bottom: .4rem;
 }
 /*============= introduction SECTION =============*/
 .intra{
-  background-image: url(img/IMG_20190909_175745.jpg);
+  background-image: url(img/IMG_20190909_175745\ \(1\).jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -154,7 +154,7 @@ padding-bottom: .4rem;
 }
 /*============= skils SECTION =============*/
 .fixed_background{
-  background-image: url(img/IMG_20190909_180352.jpg);
+  background-image: url(img/IMG_20190909_180352\ \(1\).jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
